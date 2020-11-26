@@ -1,0 +1,22 @@
+body {
+  font-family: "Lucida Console", Monaco, monospace;
+  text-align: center;
+}
+
+form input[type=radio] {
+  padding-right: 10px;
+}
+
+form input[type=submit] {
+  margin-top: 10px;
+}
+
+form label {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.question-counter, .correct-answer-counter {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
